@@ -1,0 +1,20 @@
+{
+  "chapter": "ch01",
+  "book_record_additions": {
+    "names": [],
+    "terms": [
+      {
+        "source": "Study in Scarlet",
+        "target": "Cuộc Điều Tra Màu Đỏ",
+        "status": "bound"
+      },
+      {
+        "source": "Baker Street",
+        "target": "phố Baker",
+        "status": "bound"
+      }
+    ],
+    "pronouns": []
+  },
+  "corrections": []
+}
