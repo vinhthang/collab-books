@@ -1,0 +1,139 @@
+{
+  "title": "The Gift of the Magi",
+  "author": "O. Henry",
+  "source_lang": "en",
+  "target_lang": "vi",
+  "genre": "literary",
+  "characters": {
+    "Della": "Della",
+    "Jim": "Jim",
+    "Mme. Sofronie": "Bà Sofronie",
+    "King Solomon": "Vua Solomon",
+    "queen of Sheba": "Nữ hoàng xứ Sheba"
+  },
+  "terms": {
+    "the magi": "Ba Vua",
+    "pier glass": "gương soi hẹp",
+    "platinum fob chain": "dây đồng hồ bạch kim",
+    "tortoise shell": "đồi mồi nguyên chất"
+  },
+  "pronoun_pairs": [
+    {
+      "a": "Della",
+      "b": "Jim",
+      "a_to_b": "em/anh",
+      "b_to_a": "anh/em",
+      "basis": "Affectionate young married couple (Jim is 22)"
+    },
+    {
+      "a": "Della",
+      "b": "Mme. Sofronie",
+      "a_to_b": "tôi/bà",
+      "b_to_a": "tôi/cô",
+      "basis": "Customer and chilly shop proprietor"
+    }
+  ],
+  "names": [
+    {
+      "source": "Della",
+      "target": "Della",
+      "also_referred_to_as": [
+        "Mrs. James Dillingham Young",
+        "Dell"
+      ],
+      "notes": "Slender, devoted young wife; affectionately called 'Dell' by Jim."
+    },
+    {
+      "source": "Jim",
+      "target": "Jim",
+      "also_referred_to_as": [
+        "Mr. James Dillingham Young"
+      ],
+      "notes": "Twenty-two-year-old husband, earnest and quiet, owner of the heirloom gold watch."
+    },
+    {
+      "source": "Mme. Sofronie",
+      "target": "Bà Sofronie",
+      "also_referred_to_as": [
+        "Madame"
+      ],
+      "notes": "Chilly proprietor of 'Hair Goods of All Kinds' who buys Della's hair for $20."
+    },
+    {
+      "source": "King Solomon",
+      "target": "Vua Solomon",
+      "also_referred_to_as": [],
+      "notes": "Biblical king referenced for legendary wealth."
+    },
+    {
+      "source": "queen of Sheba",
+      "target": "Nữ hoàng xứ Sheba",
+      "also_referred_to_as": [
+        "Her Majesty"
+      ],
+      "notes": "Biblical queen referenced for jewels and gifts."
+    }
+  ],
+  "term_entries": [
+    {
+      "source": "the magi",
+      "target": "Ba Vua",
+      "match": "phrase",
+      "case_sensitive": false,
+      "variants": [
+        "những nhà thông thái"
+      ]
+    },
+    {
+      "source": "pier glass",
+      "target": "gương soi hẹp",
+      "match": "phrase",
+      "case_sensitive": false,
+      "variants": [
+        "tấm gương soi hẹp giữa hai khung cửa sổ"
+      ]
+    },
+    {
+      "source": "platinum fob chain",
+      "target": "dây đồng hồ bạch kim",
+      "match": "phrase",
+      "case_sensitive": false,
+      "variants": [
+        "sợi dây bạch kim đeo đồng hồ bỏ túi"
+      ]
+    },
+    {
+      "source": "tortoise shell",
+      "target": "đồi mồi nguyên chất",
+      "match": "phrase",
+      "case_sensitive": false,
+      "variants": [
+        "đồi mồi"
+      ]
+    }
+  ],
+  "pronouns": [
+    {
+      "pair": [
+        "Della",
+        "Jim"
+      ],
+      "a_to_b": "em/anh",
+      "b_to_a": "anh/em",
+      "basis": "Affectionate young married couple (Jim is 22)",
+      "changes": [],
+      "provisional": false
+    },
+    {
+      "pair": [
+        "Della",
+        "Mme. Sofronie"
+      ],
+      "a_to_b": "tôi/bà",
+      "b_to_a": "tôi/cô",
+      "basis": "Customer and chilly shop proprietor",
+      "changes": [],
+      "provisional": false
+    }
+  ]
+}

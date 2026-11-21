@@ -1,0 +1,26 @@
+{
+  "book_slug": "gift-of-the-magi",
+  "seed_status": "seeded",
+  "seed_error": null,
+  "glossary_sha": "a224c55811a4c215eaadb5c8ddf095f372b2bce6c8967ba00e940828b3d3e4e6",
+  "chapters": [
+    {
+      "chapter": "ch01",
+      "chapter_num": 1,
+      "title": "I. One Dollar and Eighty-Seven Cents",
+      "status": "done"
+    },
+    {
+      "chapter": "ch02",
+      "chapter_num": 2,
+      "title": "II. Madame Sofronie and the Platinum Chain",
+      "status": "open"
+    },
+    {
+      "chapter": "ch03",
+      "chapter_num": 3,
+      "title": "III. The Combs and the Magi",
+      "status": "open"
+    }
+  ]
+}

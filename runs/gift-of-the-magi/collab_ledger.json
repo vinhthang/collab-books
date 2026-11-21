@@ -1,0 +1,19 @@
+{
+  "book_slug": "gift-of-the-magi",
+  "chapters": {
+    "ch01": {
+      "chapter": "ch01",
+      "issue_number": 0,
+      "selected_pr": 1,
+      "rejected_prs": [],
+      "translator_login": "agy-admin",
+      "reviewer_logins": [],
+      "reviewer_score": 4.5,
+      "score_of_record": 4.5,
+      "verdict": "PASS",
+      "merge_sha": "bcf89548262279cd186c134d6a812ed48ee05331",
+      "glossary_sha": "a224c55811a4c215eaadb5c8ddf095f372b2bce6c8967ba00e940828b3d3e4e6"
+    }
+  },
+  "released_tag": null
+}
